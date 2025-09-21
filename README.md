@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/habeebanuoluwapo/neighborhood-skill-bank/blob/main/LICENSE)
 [![Blockchain](https://img.shields.io/badge/blockchain-Stacks-orange)](https://stacks.co/)
 [![Development](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/habeebanuoluwapo/neighborhood-skill-bank)
+[![Learning](https://img.shields.io/badge/learning-community--driven-purple)](https://github.com/habeebanuoluwapo/neighborhood-skill-bank)
 
 A decentralized platform for discovering, sharing, and developing skills within local communities through blockchain-based skill registration, knowledge exchange facilitation, and structured community learning programs.
 
